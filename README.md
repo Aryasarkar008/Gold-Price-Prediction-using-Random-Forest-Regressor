@@ -14,19 +14,18 @@ Next we check the statiscical measures of our Dataset and find the Correlation
 
 <h1>Creating a Heatmap of our Dataset</h1>
 We create a HeatMap of our Dataset to understand the correlation between different features.
-![Heatmap](https://user-images.githubusercontent.com/92635176/220624722-2405b833-7845-4eb6-b5f4-6d699c3cb98e.jpg)
-
+<img src="https://user-images.githubusercontent.com/92635176/220624722-2405b833-7845-4eb6-b5f4-6d699c3cb98e.jpg" alt="Heatmap" />
 
 <h1>Creating a Distribution plot of Gold in our Dataset</h1>
-![Gold distribution](https://user-images.githubusercontent.com/92635176/220625421-9043f827-3ea8-4d86-9fa1-d238ecb1cdb7.jpg)
+<img src="https://user-images.githubusercontent.com/92635176/220625421-9043f827-3ea8-4d86-9fa1-d238ecb1cdb7.jpg" alt="Gold distribution" />
 
 <h1>Evaluation of our Model</h1>
 We evaluate our model by calculating the R Squared Error for our model.
-![r squared error](https://user-images.githubusercontent.com/92635176/220627124-b1954ba8-baa3-4d31-bb3c-3b5b72317f93.jpg)
+<img src="https://user-images.githubusercontent.com/92635176/220627124-b1954ba8-baa3-4d31-bb3c-3b5b72317f93.jpg" alt="r squared error" />
 
 <h1>Comparing the Actual Price and Predicted Price</h1>
-We plot a chart to compare the diffrence between the Actual Value and Predicted Value
-![chart](https://user-images.githubusercontent.com/92635176/220627707-7fbbed69-5eff-494b-b4e1-0af511aa76c7.jpg)
+We plot a chart to compare the diffrence between the Actual Value and Predicted Value.
+<img src="https://user-images.githubusercontent.com/92635176/220627707-7fbbed69-5eff-494b-b4e1-0af511aa76c7.jpg" alt="chart" />
 
 <br>
 <br>
